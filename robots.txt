@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://irumoofo.github.io/Irb/sitemap_index.txt
+Sitemap: https://irumoofo.github.io/bFJ/sitemap_index.txt
+Sitemap: https://irumoofo.github.io/oxr/sitemap_index.txt
+Sitemap: https://irumoofo.github.io/uBE/sitemap_index.txt
